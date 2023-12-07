@@ -23,4 +23,7 @@ Neverdown is not just a website; it's a journey into the unexplored realms of my
 Feel free to reach out, share your thoughts, or join the conversation. Let's make the internet a more colorful place together!
 Visit it in my [Reach page on the website](https://rb.gy/7f1269/#reach-me)
 
+# Youtube channel
+I also made a youtube channel specifically for this project at https://rb.gy/7f1269/#youtube
+
 Happy exploring! 🌍✨
