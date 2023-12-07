@@ -14,16 +14,16 @@ Neverdown is not just a website; it's a journey into the unexplored realms of my
 
 ## How to Experience the Magic
 
-1. Visit [Neverdown](https://rb.gy/7f1269) - Your portal to a world of wonders.
+1. Visit [Neverdown](https://rplg.co/4bde4260) - Your portal to a world of wonders.
 2. Click the enticing button that says "Change Background Color and Rickroll!" 🎉
 3. Enjoy the surprise! 😉
 
 ## Connect with Me
 
 Feel free to reach out, share your thoughts, or join the conversation. Let's make the internet a more colorful place together!
-Visit it in my [Reach page on the website](https://rb.gy/7f1269/#reach-me)
+Visit it in my [Reach page on the website](https://rplg.co/4bde4260/#reach-me)
 
 # Youtube channel
-I also made a youtube channel specifically for this project at https://rb.gy/7f1269/#youtube
+I also made a youtube channel specifically for this project at [click here](https://rplg.co/4bde4260/#youtube)
 
 Happy exploring! 🌍✨
