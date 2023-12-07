@@ -21,9 +21,9 @@ Neverdown is not just a website; it's a journey into the unexplored realms of my
 ## Connect with Me
 
 Feel free to reach out, share your thoughts, or join the conversation. Let's make the internet a more colorful place together!
-Visit it in my [Reach page on the website](https://rplg.co/4bde4260/#reach-me)
+Visit it in my [Reach page on the website](https://rplg.co/4bde4260#reach-me)
 
 # Youtube channel
-I also made a youtube channel specifically for this project at [click here](https://rplg.co/4bde4260/#youtube)
+I also made a youtube channel specifically for this project at [click here](https://rplg.co/4bde4260#youtube)
 
 Happy exploring! 🌍✨
